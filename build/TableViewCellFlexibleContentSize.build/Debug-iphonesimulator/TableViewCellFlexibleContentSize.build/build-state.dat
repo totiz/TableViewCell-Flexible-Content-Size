@@ -1,7 +1,7 @@
 TTableViewCellFlexibleContentSize
 v7
 r0
-t320601168.298099
+t320846982.394508
 cCheck dependencies
 cProcessInfoPlistFile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/Info.plist TableViewCellFlexibleContentSize-Info.plist
 cCompileXIB /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/MainWindow.xib
@@ -17,15 +17,15 @@ cGenerateDSYMFile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCe
 cTouch /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m
-c000000004D6BC2DF000000000000063C
-t1298907871
-s1596
+c000000004D6F6E0C00000000000004C3
+t1299148300
+s1219
 i"FlexibleContentSizeCell.h"
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/FlexibleContentSizeCell.xib
-c000000004D6BC47F000000000000534E
-t1298908287
-s21326
+c000000004D6F8033000000000000534F
+t1299152947
+s21327
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.h
 c000000004D6BC3BC0000000000000300
@@ -35,9 +35,9 @@ i<UIKit/UIKit.h>
 i"FlexibleContentSizeCell.h"
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m
-c000000004D6BC44C000000000000178C
-t1298908236
-s6028
+c000000004D6F85060000000000001773
+t1299154182
+s6003
 i"RootViewController.h"
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/TableViewCellFlexibleContentSizeAppDelegate.h
@@ -84,15 +84,15 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app
-t1298908307
+t1299154182
 s272
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app.dSYM
-t1298908236
+t1299154182
 s102
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/FlexibleContentSizeCell.nib
-t1298908289
+t1299152950
 s2242
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/Info.plist
@@ -112,16 +112,16 @@ t1298908307
 s971
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize
-t1298908236
+t1299154182
 s27484
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/FlexibleContentSizeCell.o
-t1298907872
-s43184
+t1299152852
+s43180
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/RootViewController.o
-t1298908236
-s50140
+t1299154182
+s50116
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/TableViewCellFlexibleContentSize.LinkFileList
 c000000004D6BBB6700000000000003AC
@@ -188,11 +188,11 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies320601168#320601168#0(0"0(0#1#0"8636497632#0"0#
+lSLF07#2@18"Check dependencies320846982#320846982#0(0"0(0#1#0"8606216832#0"0#
 
 CCompileC build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/FlexibleContentSizeCell.o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s320600671.653696
-e320600672.086928
+s320845652.138856
+e320845652.337727
 r1
 xCompileC
 xbuild/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/FlexibleContentSizeCell.o
@@ -201,14 +201,14 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@128"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m320600671#320600672#0(0"0(0#0#120"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m8619646368#2970"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellFlexibleContentSize_Prefix-bnqxdfsleemnkdcukbzbztfgymgg/TableViewCellFlexibleContentSize_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/FlexibleContentSizeCell.o0#
+lSLF07#2@128"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m320845652#320845652#0(0"0(0#0#120"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m8604446976#2970"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellFlexibleContentSize_Prefix-bnqxdfsleemnkdcukbzbztfgymgg/TableViewCellFlexibleContentSize_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/../FlexibleContentSizeCell.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/FlexibleContentSizeCell.o0#
 
 CCompileC build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/FlexibleContentSizeCell.o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/FlexibleContentSizeCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/RootViewController.o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s320601036.201992
-e320601036.418108
+s320846982.114895
+e320846982.344188
 r1
 xCompileC
 xbuild/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/RootViewController.o
@@ -217,7 +217,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@120"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m320601036#320601036#0(0"0(0#0#112"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m8618141536#2957"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellFlexibleContentSize_Prefix-bnqxdfsleemnkdcukbzbztfgymgg/TableViewCellFlexibleContentSize_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/RootViewController.o0#
+lSLF07#2@120"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m320846982#320846982#0(0"0(0#0#112"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m8604285056#2957"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellFlexibleContentSize_Prefix-bnqxdfsleemnkdcukbzbztfgymgg/TableViewCellFlexibleContentSize_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/RootViewController.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/RootViewController.o0#
 
 CCompileC build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/TableViewCellFlexibleContentSizeAppDelegate.o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/TableViewCellFlexibleContentSizeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s320600892.747489
@@ -246,12 +246,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@98"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/main.m320598556#320598557#0(0"0(0#0#90"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/main.m8619350816#2921"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellFlexibleContentSize_Prefix-bnqxdfsleemnkdcukbzbztfgymgg/TableViewCellFlexibleContentSize_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/main.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/FlexibleContentSizeCell.xib
-s320601088.873345
-e320601089.475941
+s320845749.855685
+e320845750.295764
 r1
 xCompileXIB
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/FlexibleContentSizeCell.xib
-lSLF07#2@46"CompileXIB Classes/FlexibleContentSizeCell.xib320601088#320601089#0(0"0(0#0#119"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/FlexibleContentSizeCell.xib8615239488#776"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/FlexibleContentSizeCell.nib /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/FlexibleContentSizeCell.xib --sdk /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+lSLF07#2@46"CompileXIB Classes/FlexibleContentSizeCell.xib320845749#320845750#0(0"0(0#0#119"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/FlexibleContentSizeCell.xib8590206432#776"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/FlexibleContentSizeCell.nib /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/Classes/FlexibleContentSizeCell.xib --sdk /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
 
 CCompileXIB /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/MainWindow.xib
 s320598555.279520
@@ -270,23 +270,23 @@ x/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContent
 lSLF07#2@33"CompileXIB RootViewController.xib320601106#320601107#0(0"0(0#0#106"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/RootViewController.xib8619709952#758"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/RootViewController.nib /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/RootViewController.xib --sdk /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
 
 CGenerateDSYMFile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app.dSYM /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize
-s320601036.448427
-e320601036.466630
+s320846982.371872
+e320846982.391784
 r1
 xGenerateDSYMFile
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app.dSYM
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize
-lSLF07#2@184"GenerateDSYMFile build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app.dSYM build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize320601036#320601036#0(0"0(0#0#181"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize8639403168#602"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/usr/bin/dsymutil /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app.dSYM0#
+lSLF07#2@184"GenerateDSYMFile build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app.dSYM build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize320846982#320846982#0(0"0(0#0#181"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize8605978880#602"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/usr/bin/dsymutil /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app.dSYM0#
 
 CLd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize normal i386
-s320601036.418193
-e320601036.448316
+s320846982.344275
+e320846982.371762
 r1
 xLd
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize
 xnormal
 xi386
-lSLF07#2@186"Link /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize320601036#320601036#0(0"0(0#0#0"8639607168#1262"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -filelist /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/TableViewCellFlexibleContentSize.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize0#
+lSLF07#2@186"Link /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize320846982#320846982#0(0"0(0#0#0"8606669376#1262"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -filelist /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/Objects-normal/i386/TableViewCellFlexibleContentSize.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/TableViewCellFlexibleContentSize0#
 
 CProcessInfoPlistFile /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app/Info.plist TableViewCellFlexibleContentSize-Info.plist
 s320598555.276292
@@ -311,10 +311,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@54"Precompile TableViewCellFlexibleContentSize_Prefix.pch320598555#320598556#0(0"0(0#0#127"/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/TableViewCellFlexibleContentSize_Prefix.pch8615095232#2743"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/TableViewCellFlexibleContentSize-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/TableViewCellFlexibleContentSize.build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.build/DerivedSources -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/TableViewCellFlexibleContentSize_Prefix.pch -o /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewCellFlexibleContentSize_Prefix-bnqxdfsleemnkdcukbzbztfgymgg/TableViewCellFlexibleContentSize_Prefix.pch.gch0#
 
 CTouch /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app
-s320601107.106658
-e320601107.110362
+s320846982.391869
+e320846982.394470
 r1
 xTouch
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app
-lSLF07#2@154"Touch /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app320601107#320601107#0(0"0(0#0#0"8635309632#399"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app0#
+lSLF07#2@154"Touch /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app320846982#320846982#0(0"0(0#0#0"8603391360#399"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize    setenv PATH "/Xcode3.2.5_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Testing/TableViewCellFlexibleContentSize/build/Debug-iphonesimulator/TableViewCellFlexibleContentSize.app0#
 

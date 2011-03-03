@@ -31,22 +31,6 @@
 	return self.textView.text;
 }
 
-/*- (void)setcontentText:(NSString *)newText
- {
- self.textView.text = newText;
- 
- // Setup TextView Frame Height equal to Content Size
- CGRect textViewFrame = self.textView.frame;
- textViewFrame.size.height = self.textView.contentSize.height;
- self.textView.frame = textViewFrame;
- NSLog(@"22 %@", newText);
- }
- 
- - (NSString *)contentText
- {
- return self.textView.text;
- }*/
-
 - (CGFloat)contentTextHeight
 {
 	return self.textView.contentSize.height;

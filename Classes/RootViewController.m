@@ -28,11 +28,11 @@
 	// Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
 	myArray = [NSMutableArray new];
-	[myArray addObject:@"1 fdsfdsf fdsfdsfdsf fdsfdsfsdfds fsdfdsfdsf fdsfdsfds fsdfdsf fdsfdsfdsf"];
-	[myArray addObject:@"2 fsdfdsfd fsdfdsfsd fsdfdsfdsf fsdfsdf fsdfdsf sdfdsf"];
-	[myArray addObject:@"3 fsdfdsfdsf fsdfdsfsfsd fsdfdsfdsfds fsdfsdfdsfsd fsdfdsf"];
-	[myArray addObject:@"4 fdsfsdfdsf fsdfdsfdsf fsdfsdfdsf fsdfdsfdsf  fdsfdsf fdsfds fsdfdsf  fdsfdsf fdsfdsf fdsfdsf fdsfdsf fdsfsdf fdsf dsf dsf ds fds fds fds fds fds fds fds fds "];
-	[myArray addObject:@"5 fsdfdsfds fdsfdsfdsfdsf fdsfdsfds fsdfsdf"];
+	[myArray addObject:@"1. This is my first project that I open source."];
+	[myArray addObject:@"2. That support all iOS Devices( iPhone, iPad, iPod Touch)."];
+	[myArray addObject:@"3. It's very simple to use. you just download it and hit \"Build and Run\"."];
+	[myArray addObject:@"4. If you have any question, fell free to contract me at totizy@gmail.com or post on the http://github.com/totiz/TableViewCell-Flexible-Content-Size"];
+	[myArray addObject:@"5. Thank you for you using it ^_^"];
 	
 	self.cellNib = [UINib nibWithNibName:@"FlexibleContentSizeCell" bundle:nil];
 	[self.cellNib instantiateWithOwner:self options:nil];
