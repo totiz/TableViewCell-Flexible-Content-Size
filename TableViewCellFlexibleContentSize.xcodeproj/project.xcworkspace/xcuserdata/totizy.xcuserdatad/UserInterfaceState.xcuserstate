@@ -1321,9 +1321,9 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>323593289.30239701</real>
-		<string>{0, 86}</string>
-		<string>{9, 0}</string>
+		<real>323593298.34203601</real>
+		<string>{0, 96}</string>
+		<string>{19, 0}</string>
 		<string>Xcode.IDEKit.EditorDocument.SourceCode</string>
 		<dict>
 			<key>$class</key>
@@ -2069,9 +2069,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>323593289.30065298</real>
-		<string>{0, 86}</string>
-		<string>{9, 0}</string>
+		<real>323593298.34022897</real>
+		<string>{0, 96}</string>
+		<string>{19, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2155,7 +2155,7 @@
     s = 0;
 }</string>
 		</dict>
-		<real>323593289.30037099</real>
+		<real>323593298.339818</real>
 		<string>{2923, 942}</string>
 		<string>{3484, 23}</string>
 		<dict>
@@ -3847,7 +3847,7 @@
     s = 0;
 }</string>
 		</dict>
-		<real>323593289.30294502</real>
+		<real>323593298.34260398</real>
 		<string>{2923, 942}</string>
 		<string>{3484, 23}</string>
 		<string>-tableView:heightForRowAtIndexPath:</string>
