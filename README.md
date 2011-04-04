@@ -1,5 +1,5 @@
 Three20
-=======
+========
 
 Three20 is a collection of iPhone UI classes, like a photo viewer, and general
 utilities, like an HTTP disk cache.  Three20 is derived from the
