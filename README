@@ -1,1 +1,5 @@
-Documentation is comming
+Work Flow
+=========
+
+*) #import "FlexibleContentSizeCell.h" at header of TableViewController
+*) 
