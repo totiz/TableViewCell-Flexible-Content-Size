@@ -5,11 +5,7 @@ TFCS is a custom TableViewCell class, use performance of UITextView as flexible 
 [Blognone app][], which is one of the best technical news in Thailand.
 
 [![](http://farm6.static.flickr.com/5141/5588342334_0ef1101486_m.jpg)](http://farm6.static.flickr.com/5141/5588342334_0ef1101486_m.jpg)
-[![](http://farm4.static.flickr.com/3432/3378117315_846547cfba_m.jpg)](http://farm4.static.flickr.com/3432/3378117315_3bf905bdb6_o.jpg) 
-[![](http://farm4.static.flickr.com/3462/3378171111_ec1208541d_m.jpg)](http://farm4.static.flickr.com/3462/3378171111_666173111d_o.jpg)
-[![](http://farm4.static.flickr.com/3646/3378998444_d0534d337f_m.jpg)](http://farm4.static.flickr.com/3646/3378998444_8d3b1eeef8_o.jpg)
-[![](http://farm4.static.flickr.com/3552/3378940896_7b23cca98e_m.jpg)](http://farm4.static.flickr.com/3552/3378940896_8ccb5ea1c8_o.jpg)
-[![](http://farm4.static.flickr.com/3382/3425636810_483f1b65a6_m.jpg)](http://farm4.static.flickr.com/3382/3425636810_b0a578bb22_o.jpg)
+[![](http://farm6.static.flickr.com/5092/5588344800_91b84f0bd6_m.jpg)](http://farm6.static.flickr.com/5092/5588344800_91b84f0bd6_m.jpg)
 
 Community
 =========
