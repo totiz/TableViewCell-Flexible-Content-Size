@@ -4,7 +4,7 @@ TableViewCell Flexible Content Size
 TFCS is a custom TableViewCell class, use performance of UITextView as flexible size depends on content. TFCS is derived from the
 [Blognone app][], which is one of the best technical news in Thailand.
 
-[![](http://farm6.static.flickr.com/5226/5588324766_23d18c0cbd.jpg)](http://farm6.static.flickr.com/5226/5588324766_23d18c0cbd.jpg)
+[![](http://farm6.static.flickr.com/5141/5588342334_0ef1101486_m.jpg)](http://farm6.static.flickr.com/5141/5588342334_0ef1101486_m.jpg)
 [![](http://farm4.static.flickr.com/3432/3378117315_846547cfba_m.jpg)](http://farm4.static.flickr.com/3432/3378117315_3bf905bdb6_o.jpg) 
 [![](http://farm4.static.flickr.com/3462/3378171111_ec1208541d_m.jpg)](http://farm4.static.flickr.com/3462/3378171111_666173111d_o.jpg)
 [![](http://farm4.static.flickr.com/3646/3378998444_d0534d337f_m.jpg)](http://farm4.static.flickr.com/3646/3378998444_8d3b1eeef8_o.jpg)
