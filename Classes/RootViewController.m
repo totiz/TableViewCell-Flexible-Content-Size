@@ -32,11 +32,13 @@
 	[myArray addObject:@"2. That support all iOS Devices( iPhone, iPad, iPod Touch)."];
 	[myArray addObject:@"3. It's very simple to use. you just download it and hit \"Build and Run\"."];
 	[myArray addObject:@"4. If you have any question, fell free to contract me at totizy@gmail.com or post on the http://github.com/totiz/TableViewCell-Flexible-Content-Size"];
-	[myArray addObject:@"5. Thank you for you using it ^_^"];
+	[myArray addObject:@"5. Enjoy! ^_^"];
 	
 	self.cellNib = [UINib nibWithNibName:@"FlexibleContentSizeCell" bundle:nil];
 	[self.cellNib instantiateWithOwner:self options:nil];
 	cellForCheckingContentSize = tmpCell;
+    
+    self.title = @"TFCS Home";
 }
 
 

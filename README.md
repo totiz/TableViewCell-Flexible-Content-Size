@@ -1,11 +1,10 @@
-Three20
-========
+TableViewCell Flexible Content Size
+=======
 
-Three20 is a collection of iPhone UI classes, like a photo viewer, and general
-utilities, like an HTTP disk cache.  Three20 is derived from the
-[Facebook iPhone app][], which is one of the most downloaded iPhone apps ever.
+TFCS is a custom TableViewCell class, use performance of UITextView as flexible size depends on content. TFCS is derived from the
+[Blognone app][], which is one of the best technical news in Thailand.
 
-[![](http://farm4.static.flickr.com/3447/3378092101_40a62a04b2_m.jpg)](http://farm4.static.flickr.com/3447/3378092101_b064d8e339_o.jpg)
+[![](http://farm6.static.flickr.com/5226/5588324766_23d18c0cbd.jpg)](http://farm6.static.flickr.com/5226/5588324766_23d18c0cbd.jpg)
 [![](http://farm4.static.flickr.com/3432/3378117315_846547cfba_m.jpg)](http://farm4.static.flickr.com/3432/3378117315_3bf905bdb6_o.jpg) 
 [![](http://farm4.static.flickr.com/3462/3378171111_ec1208541d_m.jpg)](http://farm4.static.flickr.com/3462/3378171111_666173111d_o.jpg)
 [![](http://farm4.static.flickr.com/3646/3378998444_d0534d337f_m.jpg)](http://farm4.static.flickr.com/3646/3378998444_8d3b1eeef8_o.jpg)

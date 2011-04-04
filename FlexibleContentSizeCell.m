@@ -53,6 +53,12 @@
     [super setSelected:selected animated:animated];
     
     // Configure the view for the selected state.
+    if (selected == YES) {
+        self.textView.textColor = [UIColor whiteColor];
+    } else {
+        self.textView.textColor = [UIColor blackColor];
+
+    }
 }
 
 
